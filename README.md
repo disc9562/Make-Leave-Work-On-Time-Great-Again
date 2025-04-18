@@ -1,7 +1,7 @@
 # Make-Leave-Work-On-Time-Great-Again
 
 # Hammerspoon 工作時間追蹤工具
-
+![Hammerspoon 圖示](images/screenshot.png)
 這個專案提供一個 Hammerspoon 配置，用於自動追蹤上下班時間。
 
 ## 安裝說明
